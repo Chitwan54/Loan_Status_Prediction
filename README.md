@@ -40,8 +40,8 @@ Conducting more advanced statistical tests such as two-way ANOVA or chi-squared 
 **Feature Importance and Impact:**
 Analyzing feature importance and impact on model predictions to understand which variables significantly influence the loan approval decision. This insight aids in better interpretability and trustworthiness of the model.
 
-**Predictive Analytics on Customer Segmentation:
-**Leveraging clustering techniques to segment customers based on their financial profiles and analyzing how these segments correlate with loan approval. This could provide valuable insights for targeted marketing strategies or personalized financial products.Implement the model in a scalable production environment for real-world loan assessment.
+**Predictive Analytics on Customer Segmentation:**
+Leveraging clustering techniques to segment customers based on their financial profiles and analyzing how these segments correlate with loan approval. This could provide valuable insights for targeted marketing strategies or personalized financial products.Implement the model in a scalable production environment for real-world loan assessment.
 
 **Web Application:**
 Develop a user-friendly web application for loan approval prediction.
