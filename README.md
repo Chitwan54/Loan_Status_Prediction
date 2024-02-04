@@ -31,17 +31,17 @@ Screenshot 2: Displays the predicted loan approval status.
 Investigating the relationship between 'employment_type,' 'income_annum,' and 'loan_status' to discern patterns among different employment categories. This could provide insights into the financial stability and reliability of various employment types in loan approval.
 Exploring interactions between 'education,' 'employment_type,' and 'cibil_score' to understand how educational qualifications may influence employment types and credit scores, which, in turn, impact loan approval.
 
-**Feature Engineering:
-**Creating new features or transforming existing ones to capture complex relationships. For instance, deriving a debt-to-income ratio by combining 'loan_amount' and 'income_annum' might offer a more nuanced understanding of an applicant's financial health.
+**Feature Engineering:**
+Creating new features or transforming existing ones to capture complex relationships. For instance, deriving a debt-to-income ratio by combining 'loan_amount' and 'income_annum' might offer a more nuanced understanding of an applicant's financial health.
 
-**Advanced Statistical Testing:
-**Conducting more advanced statistical tests such as two-way ANOVA or chi-squared tests for independence to unveil hidden relationships among multiple categorical variables.
+**Advanced Statistical Testing:**
+Conducting more advanced statistical tests such as two-way ANOVA or chi-squared tests for independence to unveil hidden relationships among multiple categorical variables.
 
-**Feature Importance and Impact:
-**Analyzing feature importance and impact on model predictions to understand which variables significantly influence the loan approval decision. This insight aids in better interpretability and trustworthiness of the model.
+**Feature Importance and Impact:**
+Analyzing feature importance and impact on model predictions to understand which variables significantly influence the loan approval decision. This insight aids in better interpretability and trustworthiness of the model.
 
 **Predictive Analytics on Customer Segmentation:
 **Leveraging clustering techniques to segment customers based on their financial profiles and analyzing how these segments correlate with loan approval. This could provide valuable insights for targeted marketing strategies or personalized financial products.Implement the model in a scalable production environment for real-world loan assessment.
 
-**Web Application:
-**Develop a user-friendly web application for loan approval prediction.
+**Web Application:**
+Develop a user-friendly web application for loan approval prediction.
